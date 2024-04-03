@@ -1,0 +1,50 @@
+﻿
+
+      Fundamentals of java Assignment
+
+
+
+      1. What is Programming language?
+      Ans -  A programming language is a way for programmers to communicate with 
+             computers. Programming languages consist of a set of rules the allows 
+             string values to be converted into various ways of generating machine code.
+
+
+
+      2. Why do we need a programming language?
+      Ans -  The major need for the programming language is to communicate with the
+             computers and the programming languages are also used to develop an 
+             application for performing a specific tasks, automating things.
+
+
+ 
+      3. What are the features of Java?
+      Ans -  Features of Java :
+                         1. Simple
+                         2. Object Oriented
+                         3. Portable
+                         4. Platform Independent
+                         5. Robust
+                         6. Distributed
+
+
+    
+      4. What is an Object?
+      Ans -  An Object is an instance of a class that has those properties and behaviours
+             attached. An object is allocated memory when it is defined.
+
+
+
+      5. What is a Class?
+      Ans -  Class is a blueprint that defines some properties and behaviors. A class is not 
+             allocated memory when it is defined.
+
+
+
+      6. Explain about the main() method in Java?
+      Ans -  The main() method is the starting point from where the JVM starts the execution
+             of a java program. JVM will not execute the code if the program is missing
+             the main method.
+
+
+
